@@ -1,0 +1,11 @@
+body{
+    background: #f6e891;
+    background: linear-gradient(to right, #3D8B90, #f6e891);
+}
+.bg{
+    background-image: url(Img/LogoTecParking.jpg);
+    background-position: center center;
+}
+.btn-primary{
+    background-color: #3D8B90;
+}
